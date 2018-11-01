@@ -369,3 +369,8 @@ No dependencies
 BUILD SUCCESSFUL in 2s
 1 actionable task: 1 executed
 pal_user@RATM:~/workspace/pal-tracker-distributed$ o find this version, use the Gradle dependencies command to list all compile dependencies for one of your applications. Find the version of org.springframeo find this version, use the Gradle dependencies command to list all compile dependencies for one of your applications. Find the version of org.springframeo find this version, use the Gradle dependencies command to list all compile dependencies for one of your applications. Find the version of org.springframeo find this version, use the Gradle dependencies command to list all compile dependencies for one of your applications. Find the version of org.springframe
+
+
+
+
+./gradlew cloudNativeDeveloperDistributedSystemWithServiceDiscovery     -PregistrationServerUrl=https://registration-pal-nbss.apps.pikes.pal.pivotal.io -PbacklogServerUrl=https://backlog-pal-nbss.apps.pikes.pal.pivotal.io -PallocationsServerUrl=https://allocations-pal-nbss.apps.pikes.pal.pivotal.io -PtimesheetsServerUrl=https://timesheets-pal-nbss.apps.pikes.pal.pivotal.io
